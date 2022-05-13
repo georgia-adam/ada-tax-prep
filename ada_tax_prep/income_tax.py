@@ -39,7 +39,8 @@ DEDUCTION_CATEGORIES = (
     "child",
     "tuition",
     "healthcare",
-    "sales tax"
+    "sales tax",
+    "home office"
 )
 
 STANDARD_DEDUCTION_2020 = 12400
